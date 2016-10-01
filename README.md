@@ -1,2 +1,2 @@
-# ussrwin.github.com
+# github.ussr.win
 Home page
